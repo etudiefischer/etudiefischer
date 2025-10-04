@@ -14,14 +14,16 @@
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=harshitdhar9&show_icons=true&theme=radical" height="180" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitdhar9&layout=compact&theme=radical" height="180" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitdhar9&theme=dark" height="180" />
-
-</div>
-
-
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=harshitdhar9&show_icons=true&theme=radical" height="180"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitdhar9&layout=compact&theme=radical" height="180"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitdhar9&theme=dark" height="180"/>
+    </td>
+  </tr>
+</table>
