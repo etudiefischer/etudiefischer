@@ -11,3 +11,8 @@
 - 🤖 Building AI-powered projects & bots  
 - 🌐 Integrating ML into real-world applications  
 - 🧪 Exploring CNNs, NLP, and Transformers
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=your-username&theme=react-dark)
