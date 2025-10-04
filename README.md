@@ -7,7 +7,6 @@
 ---
 
 ### 🧠 About Me
-- 🎓 AIML student | Incoming 3rd year
 - 🤖 I love building real-world projects that combine AI with user-friendly interfaces
 - 🌍 Exploring AI integration with web, bots, and creative tools
 - 🧪 Currently learning: **Transformers**, **LangChain**, and **System Design**
