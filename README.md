@@ -45,3 +45,7 @@
 </table>
 
 [![An image of @harshitdhar9's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshitdhar9)](https://holopin.io/@harshitdhar9)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0525c484-cc00-48c8-afd1-93927a64b6d3" alt="Kaggle Badges" width="1071" height="178" />
+</p>
