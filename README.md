@@ -17,7 +17,7 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 - 🤖 Building AI-powered projects & bots  
 - 🌐 Integrating ML into real-world applications  
 - 🧪 Exploring CNNs, NLP, and Transformers
