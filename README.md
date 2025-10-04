@@ -15,4 +15,6 @@
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshitdhar9&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitdhar9&layout=compact&theme=radical)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=harshitdhar9&theme=react-dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshitdhar9&theme=dark)
+
+
