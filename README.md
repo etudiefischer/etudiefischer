@@ -27,3 +27,5 @@
     </td>
   </tr>
 </table>
+
+[![An image of @harshitdhar9's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshitdhar9)](https://holopin.io/@harshitdhar9)
