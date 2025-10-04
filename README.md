@@ -1,4 +1,14 @@
 <h1 align="center">Hi 👋, I'm Harshit Dhar</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
+  <img src="https://img.shields.io/badge/NLP-0099FF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/CNN-FF5733?style=for-the-badge">
+</p>
+
 <div align="center">
   <img height="200" width="1000" src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif" alt="coding animation">
 </div>
@@ -11,6 +21,12 @@
 - 🤖 Building AI-powered projects & bots  
 - 🌐 Integrating ML into real-world applications  
 - 🧪 Exploring CNNs, NLP, and Transformers
+
+---
+
+  [![trophy](https://github-profile-trophy.vercel.app/?username=harshitdhar9&theme=darkhub&row=1)](https://github.com/harshitdhar9)
+
+---
 
 ## 📊 GitHub Stats
 
