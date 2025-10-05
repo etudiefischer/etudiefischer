@@ -49,3 +49,5 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0525c484-cc00-48c8-afd1-93927a64b6d3" alt="Kaggle Badges" width="1071" height="178" />
 </p>
+
+[![Harshitdhar9's Daily Contributions](https://github-readme-activity-graph.vercel.app/graph?username=harshitdhar9&theme=dracula&bg_color=000000&line=ff69b4&point=ffffff&area=true&custom_title=Harshitdhar9%27s%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
