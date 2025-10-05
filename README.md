@@ -9,9 +9,8 @@
   <img src="https://img.shields.io/badge/CNN-FF5733?style=for-the-badge">
 </p>
 <p align="center">
-  
-  ![Hacktoberfest 2025 Contributor](https://img.shields.io/badge/Hacktoberfest%202025-Contributor-000000?style=for-the-badge&logo=ghost&logoColor=ff69b4&labelColor=000000&color=ff69b4)
-  
+  <br> <!-- Adds a little space -->
+  <img src="https://img.shields.io/badge/Hacktoberfest%202025-Contributor-000000?style=for-the-badge&logo=ghost&logoColor=ff69b4&labelColor=000000&color=ff69b4">
 </p>
 
 <div align="center">
