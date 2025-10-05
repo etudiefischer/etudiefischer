@@ -8,6 +8,11 @@
   <img src="https://img.shields.io/badge/NLP-0099FF?style=for-the-badge">
   <img src="https://img.shields.io/badge/CNN-FF5733?style=for-the-badge">
 </p>
+<p align="center">
+  
+  ![Hacktoberfest 2025 Contributor](https://img.shields.io/badge/Hacktoberfest%202025-Contributor-000000?style=for-the-badge&logo=ghost&logoColor=ff69b4&labelColor=000000&color=ff69b4)
+  
+</p>
 
 <div align="center">
   <img height="200" width="1000" src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif" alt="coding animation">
