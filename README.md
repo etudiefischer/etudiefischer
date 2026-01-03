@@ -26,27 +26,6 @@
 - 🌐 Integrating ML into real-world applications  
 - 🧪 Exploring CNNs, NLP, and Transformers
 
----
-
-  [![trophy](https://github-profile-trophy.vercel.app/?username=harshitdhar9&theme=darkhub&row=1)](https://github.com/harshitdhar9)
-
----
-
-## 📊 GitHub Stats
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=harshitdhar9&show_icons=true&theme=radical" height="180"/>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitdhar9&layout=compact&theme=radical" height="180"/>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitdhar9&theme=dark" height="180"/>
-    </td>
-  </tr>
-</table>
 
 [![An image of @harshitdhar9's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshitdhar9)](https://holopin.io/@harshitdhar9)
 
