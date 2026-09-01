@@ -2,4 +2,4 @@
   <img src="./assets/banner.png" alt="Banner" width="100%">
 </p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=etudiefischer&theme=solarized)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=etudiefischer&bg_color=0d1117&color=F8FAFC&line=FFD54F&point=F9A826&area=true&area_color=FFD54F&hide_border=true)](https://github.com/etudiefischer)
